@@ -20,4 +20,4 @@ git commit -m "comentario para el commit"
 + Y por último realizamos la subida de los archivos
 git push
 
-Gracias por usar nuestros tutoriales
+## En el archivo gitignore hemos definido que no se suba al repositorio ni la carpeta reto_2 ni las imagenes, es como si estuvieran en una lista negra que no dejase pasar nada de lo que pusieramos dentro
