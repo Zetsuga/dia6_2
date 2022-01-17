@@ -19,3 +19,5 @@ git status
 git commit -m "comentario para el commit"
 + Y por último realizamos la subida de los archivos
 git push
+
+Gracias por usar nuestros tutoriales
